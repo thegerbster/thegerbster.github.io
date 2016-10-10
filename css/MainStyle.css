@@ -1,0 +1,16 @@
+html {
+	color: white;
+}
+body {
+		background-image: url("../pictures/background.png");
+}
+h1 {
+	color: Red;
+}
+a {
+	color: green;
+	Font-size: 25;
+}
+p {
+	Font-size: 20;
+}
