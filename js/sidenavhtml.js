@@ -6,7 +6,7 @@ var path0;
 var path1;
 var path2;
 
-if (fileName == "") {
+if (fileName == "" || fileName == "index.html") {
 	link0 = "Links";
 	link1 = "Downloads";
 	link2 = "Changelog";
