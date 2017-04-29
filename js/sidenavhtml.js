@@ -7,7 +7,6 @@ var path1;
 var path2;
 
 if (fileName == "") {
-	console.log("success");
 	link0 = "Links";
 	link1 = "Downloads";
 	link2 = "Changelog";
@@ -15,9 +14,6 @@ if (fileName == "") {
 	path0 = "links.html";
 	path1 = "downloads.html";
 	path2 = "changelog.html";
-}
-else {
-	console.log("fail");
 }
 if (fileName == "changelog.html") {
 	link0 = "Home";
