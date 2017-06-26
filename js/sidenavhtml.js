@@ -2,45 +2,66 @@ var fileName = location.href.split("/").slice(-1);
 var link0;
 var link1;
 var link2;
+var link3;
 var path0;
 var path1;
 var path2;
+var path3;
 
 if (fileName == "" || fileName == "index.html") {
 	link0 = "Links";
 	link1 = "Downloads";
 	link2 = "Changelog";
+	link3 = "yaboi";
 
 	path0 = "links.html";
 	path1 = "downloads.html";
 	path2 = "changelog.html";
+	path3 = "yaboi.html";
 }
 if (fileName == "changelog.html") {
 	link0 = "Home";
 	link1 = "Links";
 	link2 = "Downloads";
+	link3 = "yaboi";
 
 	path0 = "index.html";
 	path1 = "links.html";
 	path2 = "downloads.html";
+	path3 = "yaboi.html";
 }
 if (fileName == "downloads.html") {
 	link0 = "Home";
 	link1 = "Links";
 	link2 = "Changelog";
+	link3 = "yaboi";
 
 	path0 = "index.html";
 	path1 = "links.html";
 	path2 = "changelog.html";
+	path3 = "yaboi.html";
 }
 if (fileName == "links.html") {
 	link0 = "Home";
 	link1 = "Downloads";
 	link2 = "Changelog";
+	link3 = "yaboi";
 
 	path0 = "index.html";
 	path1 = "downloads.html";
 	path2 = "changelog.html";
+	path3 = "yaboi.html";
+}
+if (fileName == "yaboi.html") {
+	link0 = "Home";
+	link1 = "Links";
+	link2 = "Downloads";
+	link3 = "Changelog";
+
+	path0 = "index.html";
+	path1 = "links.html";
+	path2 = "downloads.html";
+	path3 = "changelog.html";
 }
 
 document.write('\
@@ -49,6 +70,7 @@ document.write('\
 		<a href=" '+ path0 +' ">'+ link0 +'</a>\
 		<a href="'+ path1 +'">'+ link1 +'</a>\
 		<a href="'+ path2 +'">'+ link2 +'</a>\
+		<a href="'+ path3 +'">'+ link3 +'</a>\
 	</div>\
 	<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>\
 	');
