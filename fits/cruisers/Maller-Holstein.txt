@@ -7,7 +7,7 @@ Heat Sink II
 Heat Sink II
 
 50MN Quad LiF Restrained Microwarpdrive
-X5 Enduring Stasis Webifier
+Faint Scoped Warp Disruptor
 10MN Monopropellant Enduring Afterburner
 
 Focused Anode Medium Particle Stream I
@@ -24,7 +24,7 @@ Medium Trimark Armor Pump I
 
 Hobgoblin I x3
 
-Imperial Navy Multifrequency M x5
+Imperial Navy Multifrequency M x10
 Imperial Navy Infrared M x5
 Multifrequency M x5
 

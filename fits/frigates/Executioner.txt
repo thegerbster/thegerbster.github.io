@@ -1,0 +1,24 @@
+[Executioner, *Simulated Executioner]
+Overdrive Injector System II
+Inertial Stabilizers II
+Damage Control II
+
+5MN Quad LiF Restrained Microwarpdrive
+1MN Monopropellant Enduring Afterburner
+Faint Epsilon Scoped Warp Scrambler
+
+Dual Modulated Pulse Energy Beam I
+Dual Modulated Pulse Energy Beam I
+Dual Modulated Pulse Energy Beam I
+
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
+
+
+
+
+Imperial Navy Infrared S x3
+Multifrequency S x3
+Imperial Navy Multifrequency S x3
+
