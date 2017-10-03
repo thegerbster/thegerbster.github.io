@@ -1,0 +1,33 @@
+[Omen Navy Issue, Infanta]
+800mm Crystalline Carbonide Restrained Plates
+Damage Control II
+'Refuge' Adaptive Nano Plating I
+Prototype Energized Explosive Membrane I
+Medium Ancillary Armor Repairer
+Heat Sink II
+Heat Sink II
+
+50MN Quad LiF Restrained Microwarpdrive
+Faint Scoped Warp Disruptor
+Medium Electrochemical Capacitor Booster I
+
+Focused Anode Medium Particle Stream I
+Focused Anode Medium Particle Stream I
+[Empty High slot]
+Focused Anode Medium Particle Stream I
+Focused Anode Medium Particle Stream I
+
+Medium Anti-Thermal Pump I
+Medium Anti-Kinetic Pump I
+Medium Trimark Armor Pump I
+
+
+
+Hammerhead I x5
+
+Imperial Navy Multifrequency M x4
+Imperial Navy Infrared M x4
+Nanite Repair Paste x32
+Multifrequency M x4
+Navy Cap Booster 800 x1
+
