@@ -1,0 +1,26 @@
+[Crucifier, Peterel]
+Type-D Restrained Capacitor Power Relay
+Type-D Restrained Overdrive Injector
+Type-D Restrained Inertial Stabilizers
+
+DDO Scoped Tracking Disruptor I
+DDO Scoped Tracking Disruptor I
+DDO Scoped Tracking Disruptor I
+5MN Cold-Gas Enduring Microwarpdrive
+
+Drone Link Augmentor I
+Drone Link Augmentor I
+
+Small Tracking Diagnostic Subroutines I
+Small Ionic Field Projector I
+Small Ionic Field Projector I
+
+
+
+Acolyte I x3
+Warrior I x3
+Hobgoblin I x3
+
+Optimal Range Disruption Script x3
+Tracking Speed Disruption Script x3
+

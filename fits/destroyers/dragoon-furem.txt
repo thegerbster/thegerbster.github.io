@@ -1,0 +1,31 @@
+[Dragoon, Furem]
+Kinetic Plating II
+Prototype Energized Explosive Membrane I
+Damage Control II
+Drone Damage Amplifier II
+
+Small Electrochemical Capacitor Booster I
+5MN Cold-Gas Enduring Microwarpdrive
+Faint Epsilon Scoped Warp Scrambler
+
+Small Infectious Scoped Energy Neutralizer
+Small Infectious Scoped Energy Neutralizer
+Gatling Modulated Energy Beam I
+Small Infectious Scoped Energy Neutralizer
+Small Infectious Scoped Energy Neutralizer
+
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+
+
+
+Acolyte I x5
+Hobgoblin I x5
+Warrior I x5
+
+Microwave S x1
+Imperial Navy Infrared S x1
+Navy Cap Booster 400 x1
+Imperial Navy Multifrequency S x1
+

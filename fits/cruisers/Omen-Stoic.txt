@@ -1,0 +1,30 @@
+[Omen, Stoic]
+800mm Crystalline Carbonide Restrained Plates
+Damage Control II
+'Refuge' Adaptive Nano Plating I
+Prototype Energized Explosive Membrane I
+Heat Sink II
+Heat Sink II
+
+10MN Monopropellant Enduring Afterburner
+X5 Enduring Stasis Webifier
+Faint Scoped Warp Disruptor
+
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+
+Medium Anti-Kinetic Pump I
+Medium Anti-Thermal Pump I
+Medium Trimark Armor Pump I
+
+
+
+Hammerhead I x4
+
+Imperial Navy Multifrequency M x5
+Imperial Navy Infrared M x5
+Multifrequency M x5
+

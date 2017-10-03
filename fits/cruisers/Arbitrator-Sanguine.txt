@@ -1,0 +1,29 @@
+[Arbitrator, Sanguine]
+1600mm Crystalline Carbonide Restrained Plates
+Damage Control II
+'Refuge' Adaptive Nano Plating I
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+DDO Scoped Tracking Disruptor I
+DDO Scoped Tracking Disruptor I
+DDO Scoped Tracking Disruptor I
+50MN Quad LiF Restrained Microwarpdrive
+
+Drone Link Augmentor I
+Drone Link Augmentor I
+Medium Gremlin Compact Energy Neutralizer
+Small Infectious Scoped Energy Neutralizer
+
+Medium Anti-Kinetic Pump I
+Medium Anti-Explosive Pump I
+Medium Trimark Armor Pump I
+
+
+
+Infiltrator I x5
+Hammerhead I x10
+
+Optimal Range Disruption Script x3
+Tracking Speed Disruption Script x3
+

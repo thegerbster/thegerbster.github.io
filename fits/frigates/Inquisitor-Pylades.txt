@@ -1,0 +1,23 @@
+[Inquisitor, Pylades]
+200mm Crystalline Carbonide Restrained Plates
+Damage Control II
+'Refuge' Adaptive Nano Plating I
+Prototype Energized Explosive Membrane I
+
+1MN Monopropellant Enduring Afterburner
+Small Electrochemical Capacitor Booster I
+
+Small Solace Scoped Remote Armor Repairer
+Small Solace Scoped Remote Armor Repairer
+Small Solace Scoped Remote Armor Repairer
+
+Small Anti-Kinetic Pump I
+Small Anti-Thermal Pump I
+Small Trimark Armor Pump I
+
+
+
+Warrior I x1
+
+Navy Cap Booster 400 x1
+

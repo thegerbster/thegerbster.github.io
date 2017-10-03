@@ -1,0 +1,25 @@
+[Executioner, Asgard]
+Damage Control I
+Overdrive Injector System I
+Reinforced Bulkheads I
+
+5MN Microwarpdrive I
+1MN Afterburner I
+Warp Scrambler I
+
+Dual Light Pulse Laser I
+Dual Light Pulse Laser I
+Dual Light Pulse Laser I
+Small Energy Neutralizer I
+
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
+
+
+
+
+Imperial Navy Infrared S x3
+Imperial Navy Multifrequency S x3
+Multifrequency S x3
+
