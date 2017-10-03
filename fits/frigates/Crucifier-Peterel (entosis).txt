@@ -1,4 +1,4 @@
-[Crucifier, Peterel]
+[Crucifier, Peterel-entosis]
 Type-D Restrained Capacitor Power Relay
 Type-D Restrained Inertial Stabilizers
 Type-D Restrained Overdrive Injector
@@ -9,7 +9,7 @@ Baker Nunn Enduring Tracking Disruptor I
 5MN Cold-Gas Enduring Microwarpdrive
 
 Drone Link Augmentor I
-Drone Link Augmentor I
+Entosis Link I
 
 Small Ionic Field Projector I
 Small Tracking Diagnostic Subroutines I

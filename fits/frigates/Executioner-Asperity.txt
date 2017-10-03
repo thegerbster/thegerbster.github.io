@@ -1,4 +1,4 @@
-[Executioner, *Simulated Executioner]
+[Executioner, Asperity]
 Overdrive Injector System II
 Inertial Stabilizers II
 Damage Control II
